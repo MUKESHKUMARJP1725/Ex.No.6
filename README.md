@@ -1,4 +1,4 @@
-## Experiment no.6
+## Experiment No.6
 ## Development of Python Code Compatible with Multiple AI Tools 
   
 ### Name : MUKESH KUMAR J.P 
